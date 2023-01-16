@@ -1,0 +1,5 @@
+Why is the VCS important?
+You can easily roll back to previous versions of code. 
+You can track when updates were made to your code.
+You can reduce redundant copies of code.
+You can edit code at the same time as your colleagues. 

@@ -1,0 +1,2 @@
+What is Git?
+Git is a distributed version control tool It is distributed under the GNU license Git is used for maintaining historical and current versions of source code, web pages, etc Version Control System (VCS)
